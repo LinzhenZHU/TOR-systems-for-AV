@@ -7,6 +7,9 @@
 
 ## N-Back Task:
 1. A N-back game to test the attention level of the users
+2. You can define "N" to occupy different level of focus for the users
+3. The potential correct rate can be modified freely!
+4. The overall performance of the users will be recorded automatically
 
 ## Trigger:
 1. TOR Trigger (To maximize the compatbility of all the Drive Simulation Platfroms, creatively realize the TOR Trigeer based on the sound, using a 3.5mm to 3.5mm cable to connect your trigger divice and your Simulation Platform. Adjust the parameters, to make the sound of the TOR from the Simulation Platform to enable a successful trigger!)
