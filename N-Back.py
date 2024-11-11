@@ -7,7 +7,7 @@ import os
 user_id = input("Please enter your ID:")
 
 # Define game parameters
-n = int(input("Please enter the value of n (1 or 2):"))
+n = int(input("Please enter the value of N:"))
 total_rounds = 50
 score = 0
 start_round = 10
