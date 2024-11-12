@@ -18,8 +18,10 @@
 ## Terminal:
 1. Contact Vibration Terminal (Hand & Face)
 2. Contact-less Haptic UMH Terminal (Hand & Face)
+The structure of two terminals:
 
 # How to use:
+The overall toplogy:
 ## A: Vibration|Hand
 1. Upload Wearable_Vibration_Terminal.ino to the ESP32
 2. Run A-Vibration-Trigger-Hand-RT.py to realize manully trigger, the reaction time of the users will be recorded automatically.
