@@ -18,7 +18,7 @@
 ## Terminal:
 1. Contact Vibration Terminal (Hand & Face)
 2. Contact-less Haptic UMH Terminal (Hand & Face)
-The structure of two terminals: ![Model]()
+The structure of two terminals: ![Model](https://github.com/LinzhenZHU/TOR-systems-for-AV/blob/main/terminal.jpg)
 
 # How to use:
 ## The overall toplogy: ![Model](https://github.com/LinzhenZHU/TOR-systems-for-AV/blob/main/image.png)
