@@ -21,7 +21,7 @@
 The structure of two terminals:
 
 # How to use:
-The overall toplogy:
+The overall toplogy: https://github.com/LinzhenZHU/TOR-systems-for-AV/blob/main/image.png
 ## A: Vibration|Hand
 1. Upload Wearable_Vibration_Terminal.ino to the ESP32
 2. Run A-Vibration-Trigger-Hand-RT.py to realize manully trigger, the reaction time of the users will be recorded automatically.
