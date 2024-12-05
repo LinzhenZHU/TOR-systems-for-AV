@@ -1,5 +1,5 @@
 # TOR-systems-for-AV
-![Model](https://github.com/LinzhenZHU/TOR-systems-for-AV/blob/main/graph.png)
+![Model](https://github.com/LinzhenZHU/TOR-systems-for-AV/blob/main/graph.jpg)
 ### Requirements:
 1. MCU ESP32, Vibration Motor connected to Pin D10.
 2. UMH Board
